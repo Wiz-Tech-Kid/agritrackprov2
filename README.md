@@ -1,7 +1,7 @@
 
-  # Livestock Tracking Dashboard
+  # AgriTrack Prov2
 
-  This is a code bundle for Livestock Tracking Dashboard. The original project is available at https://www.figma.com/design/FXZakxGYreq3GvncWfb1rd/Livestock-Tracking-Dashboard.
+  
 
   ## Running the code
 
